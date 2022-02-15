@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on asymmetric steady circulations, the Walker circulation,
   and the two-box model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-811-tropical-meteorology-spring-2011/6b58d11e676a44a1628d199f727fdff4_MIT12_811S11_lecture_13.pdf
+file: /media/courses/12-811-tropical-meteorology-spring-2011/6b58d11e676a44a1628d199f727fdff4_MIT12_811S11_lecture_13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Walker Circulation
 uid: 6b58d11e-676a-44a1-628d-199f727fdff4

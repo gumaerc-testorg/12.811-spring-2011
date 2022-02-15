@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: New file Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-811-tropical-meteorology-spring-2011/7a51ec8ca74dfdd60689b19e7d6cdc84_MIT12_811S11_lecture_1.pdf
+file: /media/courses/12-811-tropical-meteorology-spring-2011/7a51ec8ca74dfdd60689b19e7d6cdc84_MIT12_811S11_lecture_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_lecture_1.pdf
 uid: 7a51ec8c-a74d-fdd6-0689-b19e7d6cdc84
