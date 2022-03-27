@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 resourcetype: Other
 title: YOMCST_2.h
 uid: d35bce63-9ae4-e37e-bd4c-19be97d8ee0f

@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: New file Upload
-file: /media/courses/12-811-tropical-meteorology-spring-2011/e6244fc693c928fefa57193e3aded32f_skewt.m
-file_type: text/x-objcsrc
+file: /media/courses/12-811-tropical-meteorology-spring-2011/9673e8eafd3b5170499e3ad68bbffb79_input.txt
+file_type: text/plain
 learning_resource_types:
 - Tools
 ocw_type: OCWFile
@@ -10,6 +10,6 @@ parent_title: Tools
 parent_type: CourseSection
 parent_uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 resourcetype: Other
-title: skewt.m
-uid: e6244fc6-93c9-28fe-fa57-193e3aded32f
+title: input.txt
+uid: 9673e8ea-fd3b-5170-499e-3ad68bbffb79
 ---

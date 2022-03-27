@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 resourcetype: Other
 title: rcnewrad_ipa8_rcnewrad.oo
 uid: 6f3450df-569c-4e13-c793-8054ded4bb53

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 23fdcd6b-0082-ba44-012a-bd304810dc02
 resourcetype: Document
 title: The Walker Circulation
 uid: 6b58d11e-676a-44a1-628d-199f727fdff4

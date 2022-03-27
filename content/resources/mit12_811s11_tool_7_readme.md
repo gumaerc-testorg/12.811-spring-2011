@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 resourcetype: Document
 title: MIT12_811S11_tool_7_readme.pdf
 uid: 52504627-0536-9efd-3bdc-df1c89ca8854

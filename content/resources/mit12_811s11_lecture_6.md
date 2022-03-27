@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 23fdcd6b-0082-ba44-012a-bd304810dc02
 resourcetype: Document
 title: MIT12_811S11_lecture_6.pdf
 uid: 2efbf144-8baa-1c2e-1c4f-f7ac61d27749

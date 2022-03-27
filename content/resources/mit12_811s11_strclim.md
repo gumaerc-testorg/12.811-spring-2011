@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 23fdcd6b-0082-ba44-012a-bd304810dc02
 resourcetype: Document
 title: MIT12_811S11_StrClim.pdf
 uid: 1644495b-e287-fce8-4dbb-91c317908d26
