@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: New file Upload
-file: /media/courses/12-811-tropical-meteorology-spring-2011/9673e8eafd3b5170499e3ad68bbffb79_input.txt
+file: /courses/12-811-tropical-meteorology-spring-2011/9673e8eafd3b5170499e3ad68bbffb79_input.txt
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Other
 title: input.txt
 uid: 9673e8ea-fd3b-5170-499e-3ad68bbffb79
 ---
+New file Upload
