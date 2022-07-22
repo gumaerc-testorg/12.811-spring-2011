@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/12-811-tropical-meteorology-spring-2011/060758100192a254a75f66fdfe50e69a_sounding.in
-file_type: application/octet-stream
+file: /courses/12-811-tropical-meteorology-spring-2011/9673e8eafd3b5170499e3ad68bbffb79_input.txt
+file_type: text/plain
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,9 +11,7 @@ parent_title: Tools
 parent_type: CourseSection
 parent_uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 resourcetype: Other
-title: sounding.in
-uid: 06075810-0192-a254-a75f-66fdfe50e69a
-video_metadata:
-  youtube_id: null
+title: input.txt
+uid: 9673e8ea-fd3b-5170-499e-3ad68bbffb79
 ---
 New file Upload

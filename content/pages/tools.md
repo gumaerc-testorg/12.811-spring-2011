@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 374ebf22-f5f1-50d9-82a5-d78288ffba8e
 ---
@@ -93,19 +96,19 @@ Matsuno.m ([M]({{< baseurl >}}/resources/matsuno))
 Notes on the Gill Model ([PDF]({{< baseurl >}}/resources/mit12_811s11_gill_notes))  
 Help File ([PDF]({{< baseurl >}}/resources/mit12_811s11_gill_help))  
 gill.f ([F]({{< baseurl >}}/resources/gill-1))  
-gill\_params.txt ([TXT](./resolveuid/b82034a7af8a23fb5d75264d52225029))  
+gill\_params.txt ([TXT]({{< baseurl >}}/resources/gill_params))  
 gill.m ([M]({{< baseurl >}}/resources/gill))
 
 ### Notes, FORTRAN program, and MATLAB script for reduced model of the Tropics
 
 Notes on the Model ([PDF]({{< baseurl >}}/resources/mit12_811s11_modeldes))  
 tropics.f ([F]({{< baseurl >}}/resources/tropics))  
-input.txt ([TXT](./resolveuid/9673e8eafd3b5170499e3ad68bbffb79))  
+input.txt ([TXT]({{< baseurl >}}/resources/input))  
 maps.m ([M]({{< baseurl >}}/resources/maps))
 
 ### Notes, FORTRAN program, and MATLAB script for simple coupled hurricane model
 
 Readme File ([PDF]({{< baseurl >}}/resources/mit12_811s11_tool_7_readme))  
 hurr.f ([F]({{< baseurl >}}/resources/hurr))  
-hurrparams.txt ([TXT](./resolveuid/608b527c28a6e63e91792f9da4a3a556))  
+hurrparams.txt ([TXT]({{< baseurl >}}/resources/hurrparams))  
 hurrplot.m ([M]({{< baseurl >}}/resources/hurrplot))
