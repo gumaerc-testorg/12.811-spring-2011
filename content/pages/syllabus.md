@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  assigned readings, lecture topics, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 33c2f3a7-24b4-988d-bcfc-565283c0b9a9
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -14,7 +18,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_Quasi-balanced Circulations in Oceans and Atmospheres_ ([12.803](/courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009/)) or _Dynamics of the Atmosphere_ ([12.810](/courses/12-810-dynamics-of-the-atmosphere-spring-2008/)).
+_Quasi-balanced Circulations in Oceans and Atmospheres_ ([12.803](/courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009)) or _Dynamics of the Atmosphere_ ([12.810](/courses/12-810-dynamics-of-the-atmosphere-spring-2008)).
 
 Assigned Readings
 -----------------
