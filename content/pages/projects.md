@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides suggested topics for the term paper of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 76fbed6d-a60d-03ce-8212-88a33b691342
+video_metadata:
+  youtube_id: null
 ---
 
 Suggested Term Paper Topics
