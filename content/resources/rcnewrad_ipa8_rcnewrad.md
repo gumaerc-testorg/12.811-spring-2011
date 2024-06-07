@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/6f3450df569c4e13c7938054ded4bb53_rcnewrad_ipa8_rcnewrad.oo
+file_size: 421072
 file_type: application/x-executable
 learning_resource_types:
 - Tools
