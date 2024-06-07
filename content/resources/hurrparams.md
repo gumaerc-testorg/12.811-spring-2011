@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/608b527c28a6e63e91792f9da4a3a556_hurrparams.txt
+file_size: 4426
 file_type: text/plain
 learning_resource_types:
 - Tools

@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/7604d55980a3da4bcbbdd23432b92966_MIT12_811S11_modeldes.pdf
+file_size: 578728
 file_type: application/pdf
 learning_resource_types:
 - Tools

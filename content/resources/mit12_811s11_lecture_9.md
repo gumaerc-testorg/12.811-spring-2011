@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/41ca6cb7c62c456e23c3085caa626614_MIT12_811S11_lecture_9.pdf
+file_size: 1862295
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

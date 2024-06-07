@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/17382f735e5c57e475023a0f6742fcdc_getsounding.m
+file_size: 1831
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
