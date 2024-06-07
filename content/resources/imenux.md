@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/a450be2ba0ddbcf73c867eae0d32fee3_imenux.m
+file_size: 12535
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools

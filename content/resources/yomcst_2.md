@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/d35bce639ae4e37ebd4c19be97d8ee0f_YOMCST_2.h
+file_size: 1306
 file_type: text/x-chdr
 learning_resource_types:
 - Tools

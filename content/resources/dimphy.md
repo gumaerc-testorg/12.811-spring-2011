@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/15a1bc0f0efefe796bf56f049d5d83c1_dimphy.h
+file_size: 493
 file_type: text/x-chdr
 learning_resource_types:
 - Tools

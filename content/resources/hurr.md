@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/c1c6f55c2561b8947cec109a9c4f5f66_hurr.f
+file_size: 40470
 file_type: text/x-fortran
 learning_resource_types:
 - Tools

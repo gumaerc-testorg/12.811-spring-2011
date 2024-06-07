@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/12-811-tropical-meteorology-spring-2011/3856459dc91621107601efcdbd458bb5_mac.png
+file_size: 39107
 file_type: image/png
 image_metadata:
   caption: ''
