@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/12-811-tropical-meteorology-spring-2011/1c69f5f5f98d6311243f4bb4ea38ff34_tropics.f
+file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/1c69f5f5f98d6311243f4bb4ea38ff34_tropics.f
 file_size: 13652
 file_type: text/x-fortran
 learning_resource_types:
