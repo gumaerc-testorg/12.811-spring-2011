@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/12-811-tropical-meteorology-spring-2011/2d629667738bfc8a97ddb102599e8efc_YOETHF_2.h
+file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/2d629667738bfc8a97ddb102599e8efc_YOETHF_2.h
 file_size: 512
 file_type: text/x-chdr
 learning_resource_types:
