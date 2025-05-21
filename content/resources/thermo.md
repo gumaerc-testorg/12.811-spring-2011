@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/f1486d8b6cfc43f7e398458704ee897a_thermo.h
+file: /courses/12-811-tropical-meteorology-spring-2011/f1486d8b6cfc43f7e398458704ee897a_thermo.h
 file_size: 280
 file_type: text/x-chdr
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/6a01174e5e82c3d484abf470575ec108_rc_ver2unix.zip
+file: /courses/12-811-tropical-meteorology-spring-2011/6a01174e5e82c3d484abf470575ec108_rc_ver2unix.zip
 file_size: 67319
 file_type: application/zip
 learning_resource_types:
