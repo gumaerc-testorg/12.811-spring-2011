@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about structure and climatology.
-file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/1644495be287fce84dbb91c317908d26_MIT12_811S11_StrClim.pdf
+file: /courses/12-811-tropical-meteorology-spring-2011/1644495be287fce84dbb91c317908d26_MIT12_811S11_StrClim.pdf
 file_size: 1869298
 file_type: application/pdf
 learning_resource_types:

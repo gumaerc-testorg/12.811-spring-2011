@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/5bfc6223366683d5dc0ae1425c0299e4_MIT12_811S11_lecture_11.pdf
+file: /courses/12-811-tropical-meteorology-spring-2011/5bfc6223366683d5dc0ae1425c0299e4_MIT12_811S11_lecture_11.pdf
 file_size: 2184123
 file_type: application/pdf
 learning_resource_types:
