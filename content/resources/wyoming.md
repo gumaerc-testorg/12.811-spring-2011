@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/4d448132113fdb89040ce99de81bcf4a_wyoming.f
+file: /courses/12-811-tropical-meteorology-spring-2011/4d448132113fdb89040ce99de81bcf4a_wyoming.f
 file_size: 14487
 file_type: text/x-fortran
 learning_resource_types:

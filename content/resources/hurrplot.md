@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/b31001c242112c12407e155e2753f52a_hurrplot.m
+file: /courses/12-811-tropical-meteorology-spring-2011/b31001c242112c12407e155e2753f52a_hurrplot.m
 file_size: 12304
 file_type: text/x-objcsrc
 learning_resource_types:
