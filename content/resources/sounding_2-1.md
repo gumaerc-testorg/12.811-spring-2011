@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/12-811-tropical-meteorology-spring-2011/b8b12d194a5334e7e6064460f7db32db_sounding_2.in
+file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/b8b12d194a5334e7e6064460f7db32db_sounding_2.in
 file_size: 3255
 file_type: application/octet-stream
 learning_resource_types:

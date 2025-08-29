@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/12-811-tropical-meteorology-spring-2011/cbc76e51ba6e8c58257a1a9f77725517_radepsi_2.h
+file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/cbc76e51ba6e8c58257a1a9f77725517_radepsi_2.h
 file_size: 455
 file_type: text/x-chdr
 learning_resource_types:

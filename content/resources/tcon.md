@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/12-811-tropical-meteorology-spring-2011/7d237ef5a035f20d274620e056bd397a_tcon.m
+file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/7d237ef5a035f20d274620e056bd397a_tcon.m
 file_size: 1417
 file_type: text/x-objcsrc
 learning_resource_types:
