@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/12-811-tropical-meteorology-spring-2011/faa54a274680cf672bdccdcfe1b9b944_mac2.png
+file: /ol-ocw-studio-app/courses/12-811-tropical-meteorology-spring-2011/faa54a274680cf672bdccdcfe1b9b944_mac2.png
 file_size: 39107
 file_type: image/png
 image_metadata:
