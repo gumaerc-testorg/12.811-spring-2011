@@ -11,10 +11,10 @@ video_metadata:
 ---
 ## Some Useful Links
 
-[Hurricane Potential Intensity Maps](http://wind.mit.edu/~emanuel/pcmin/hurdes.html)
+{{% resource_link "42eb9c40-bfa8-4a97-8b93-c441f51065bf" "Hurricane Potential Intensity Maps" %}}
 
-[US Navy Tropical Cyclone Page](https://www.nrlmry.navy.mil/tcweb)
+{{% resource_link "947376e6-de52-4b96-b37c-4ed4baf57760" "US Navy Tropical Cyclone Page" %}}
 
-[Tropical Cyclone Forecasts](http://wind.mit.edu/~emanuel/storm.html)
+{{% resource_link "63ba561f-8a56-4685-bfe3-c7d434e82b0b" "Tropical Cyclone Forecasts" %}}
 
 [Global Tropical Cyclone Data](ftp://texmex.mit.edu/pub/emanuel/HURR/tracks/)
